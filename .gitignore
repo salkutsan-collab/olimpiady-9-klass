@@ -1,0 +1,6 @@
+# Сборка и незашифрованный исходник в публичный репозиторий не берем
+build.js
+olimpiady.html
+*.log
+Thumbs.db
+desktop.ini
